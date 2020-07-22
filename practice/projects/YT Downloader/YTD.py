@@ -23,8 +23,8 @@ def download():
     
     # stream_no = option_var.get()
     # stream_no = pass
-    # video = videos[stream_no -1]
-    # video.download('/Users/sachinkawde/Downloads')  
+    video = videos[stream -1]
+    video.download('/Users/sachinkawde/Downloads')  
 
     tk.Label(win,text= 'Download Complete',font='helvetica 12').grid(row=7,column=3)
 

@@ -4,7 +4,7 @@
 # a: 2.....
 name=input("enter your name:")
 #rahul kawde    length = 11
-#0123456789     intex
+#0123456789     index
 #output
 #r : 1  name[0]:name.count(name[0])
 temp_ver= ""    # for double char

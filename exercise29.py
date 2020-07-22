@@ -8,5 +8,5 @@ def xyz(num, *args):
         return " you didn't type args "
 
 num =[1,2,3] 
-s=(xyz(7,*num))          #donn't forget to add * 
+s=(xyz(7,*num))          #don't forget to add * 
 print (s)

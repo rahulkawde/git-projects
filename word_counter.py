@@ -4,5 +4,6 @@ def word_counter(s):
         counts[i]= s.count(i)     # char : count
     return counts 
 
-
-print(word_counter('rahul kawde'))    
+word= input('enter your word:')
+# print(word_counter('rahul kawde'))  
+print(f'word counter : {word_counter(word)} ')  

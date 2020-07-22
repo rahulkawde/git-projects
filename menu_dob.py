@@ -34,16 +34,5 @@ month_no['values'] =('JAN','FEB','MARCH','MAY','JUNE','JULY','AUG','SEP','OCT','
 month_no.current(0)
 month_no.grid(row=0,column=1,padx=4)
 
-
-
-
-
-
-
-
-
-
 win.config(menu = menu)
-
-
 win.mainloop()

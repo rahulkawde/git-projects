@@ -4,5 +4,5 @@ def func(l,**kwarg):
     return[name.title() for name in l]                 #  for only l
 
 n=('rahul', 'sachin', 'ganesh') 
-print(func(n))     
-print(func(n,reverse_str = True))
+print(func(n))     # just add list
+print(func(n,reverse_str = True)) # add list and function

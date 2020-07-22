@@ -6,5 +6,8 @@ def palidrome(word):
     else:
          return False
 
+word = input('enter your word: ')
+ans = palidrome(word)
+print(f'palidrome : {ans}')
 print(palidrome("naman"))
 print(palidrome("rahul"))

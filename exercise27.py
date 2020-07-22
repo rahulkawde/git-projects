@@ -1,4 +1,4 @@
-# set comprehension
+# set comprehension    always in disorder:
 s={k**2 for k in range(1,11)}
 print(s)
 # dict comprehension

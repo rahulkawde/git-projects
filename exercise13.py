@@ -1,3 +1,4 @@
+#total in row:
 num= input("enter number:")
 total=0
 for i in (num):
